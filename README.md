@@ -60,7 +60,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/SelenAI.git
+git clone https://github.com/m97chahboun/SelenAI.git
 cd SelenAI
 
 # Install dependencies
@@ -460,10 +460,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Support
 
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/yourusername/SelenAI/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/yourusername/SelenAI/discussions)
-- 📖 **Documentation**: [Wiki](https://github.com/yourusername/SelenAI/wiki)
-- 💬 **Community**: [Discord Server](#)
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/m97chahboun/SelenAI/issues)
+- 💡 **Feature Requests**: [Start a discussion](https://github.com/m97chahboun/SelenAI/discussions)
 
 ## 🗺️ Roadmap
 
