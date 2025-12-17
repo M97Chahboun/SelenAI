@@ -9,7 +9,7 @@
 [![Gemini](https://img.shields.io/badge/Gemini-API-orange.svg)](https://ai.google.dev/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-*Tell SelenAI what you want in plain English, and watch it automate your browser tasks intelligently.*
+*Tell SelenAI what you want in natural language, and watch it automate your browser tasks intelligently.*
 
 [Features](#-features) • [Quick Start](#-quick-start) • [Usage](#-usage) • [Examples](#-examples) • [Documentation](#-documentation)
 
@@ -19,7 +19,7 @@
 
 ## 🌟 Features
 
-- 🗣️ **Natural Language Control** - Give commands in plain English, no coding required
+- 🗣️ **Natural Language Control** - Give commands in natural language, no coding required
 - 🤖 **AI-Powered Intelligence** - Uses Google Gemini to understand intent and plan actions
 - 🎯 **Smart Automation** - Automatically finds elements, handles waits, and recovers from errors
 - 🌐 **Full Browser Control** - Navigate, click, type, scroll, screenshot, and more
